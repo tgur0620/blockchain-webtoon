@@ -12,3 +12,9 @@
 - 해결방안
      1. 블록체인을 통한 불법복제의 원천 복제
      2. 코인을 통한 작가와 독자간의 직접적인 교류및 소통
+
+
+
+![default](https://user-images.githubusercontent.com/43447473/51080434-f34edb80-171e-11e9-867a-c8b98d7b3cbf.png)
+
+     
