@@ -1,4 +1,4 @@
-# blockchain-webtoon
+# blockchain-webtoon(ChainToon)
 >2019년1월13일
 
 
